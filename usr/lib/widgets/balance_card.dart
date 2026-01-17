@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../../utils/currency_format.dart';
+import '../utils/currency_format.dart';
 
 class BalanceCard extends StatelessWidget {
   final double balance;
